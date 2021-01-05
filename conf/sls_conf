@@ -1,0 +1,10 @@
+# Serverless Framework: Settings
+export ServiceName='aws-lambda-wordcloud'
+export SLSDIR='serverless'
+export Region='us-east-1'
+export Stage='dev'
+
+# Environment variable
+export Bucket='wordcloud-20200105' # AWS S3 Bucket Name
+export WCMask='cloud' # Mask img for wordcloud
+

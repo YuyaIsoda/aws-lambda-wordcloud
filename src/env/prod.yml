@@ -1,0 +1,3 @@
+Region: ${env:Region}
+Bucket: ${env:Bucket}
+WCMask: ${env:WCMask}
